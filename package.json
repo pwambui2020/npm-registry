@@ -1,0 +1,12 @@
+{
+  "name": "@pwambui13/my-npm-registry",
+  "version": "1.0.0",
+  "description": "This is a testing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pwambui",
+  "license": "ISC"
+}
